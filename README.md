@@ -2,6 +2,8 @@
 
 #### This is a way to make all your branches auto update to the latest push on the main branch. This uses GitHub actions. 
 
+This repo is a template repo so you can use this to start a new repository.
+
 #### Just copy the .github folder into your repository. </br>
 
 #### In ./github/workflows/main.yml replace `<your email here>` with your GitHub email and `<your username here>` with your GitHub username.
