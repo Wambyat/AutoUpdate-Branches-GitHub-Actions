@@ -2,7 +2,7 @@
 
 #### This is a way to make all your branches auto update to the latest push on the main branch. This uses GitHub actions. 
 
-This repo is a template repo so you can use this to start a new repository.
+This repo is a template repo so you can use this to start a new repository. This will fail on private repositories.
 
 #### Just copy the .github folder into your repository. </br>
 
