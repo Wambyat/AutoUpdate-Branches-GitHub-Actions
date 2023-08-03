@@ -1,10 +1,10 @@
 # GitHub Auto-Update
 
-#### This is a way to make all your branches auto update to the latest push on the main branch. This uses GitHub actions. 
+### This is a way to make all your branches auto update to the latest push on the main branch. This uses GitHub actions. 
 
-This repo is a template repo so you can use this to start a new repository. This will fail on private repositories.
+This is a template repository so you can use this to create a new repository. This will fail on private repositories.
 
-#### Just copy the .github folder into your repository. </br>
+#### Just copy the .github folder into your repository or make a repository using this one as a template.
 
 #### In ./github/workflows/main.yml replace `<your email here>` with your GitHub email and `<your username here>` with your GitHub username.
 
